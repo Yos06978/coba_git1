@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `akademik06981`
+-- Database: `akademik06978`
 --
 CREATE DATABASE IF NOT EXISTS `akademik06978` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 USE `akademik06978`;
